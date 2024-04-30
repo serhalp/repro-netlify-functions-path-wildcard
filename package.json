@@ -1,0 +1,15 @@
+{
+  "name": "repro-netlify-functions-path-wildcard",
+  "version": "1.0.0",
+  "description": "Verify behavior of wildcards in Netlify Functions config \"path\" option",
+  "scripts": {
+    "build": "echo \"Nothing to build\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serhalp/repro-netlify-functions-path-wildcard.git"
+  },
+  "author": "Philippe Serhal <philippe.serhal@netlify.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/serhalp/repro-netlify-functions-path-wildcard#readme"
+}
