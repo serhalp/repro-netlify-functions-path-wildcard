@@ -11,5 +11,8 @@
   },
   "author": "Philippe Serhal <philippe.serhal@netlify.com>",
   "license": "ISC",
-  "homepage": "https://github.com/serhalp/repro-netlify-functions-path-wildcard#readme"
+  "homepage": "https://github.com/serhalp/repro-netlify-functions-path-wildcard#readme",
+  "devDependencies": {
+    "@netlify/functions": "^2.6.0"
+  }
 }
