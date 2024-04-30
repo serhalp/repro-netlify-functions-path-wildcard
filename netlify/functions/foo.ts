@@ -8,6 +8,6 @@ const handler = async (req: Request): Promise<Response> => {
 export default handler;
 
 export const config: Config = {
-  path: "/*",
+  path: "/specific-path",
   preferStatic: true,
 };
